@@ -1,2 +1,2 @@
-# my-portfolio
-This is my first professional repository on git. I know it is not the first one ever to be done.
+# Omar Ali Portfolio
+This is my first professional repository on git. It uses AWS and React.JS
