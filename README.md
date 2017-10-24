@@ -1,6 +1,11 @@
 # Omar Ali Portfolio
-This is my first professional repository on github. It uses AWS and React.JS.
+This Is My Professional Portfolio Repository. It uses AWS and React.JS.
 
-# the technologies used are:
+# The Technologies Used Are:
 
-git, brew github. ssh 
+Brew
+Git and Github
+SSH
+HTML
+Font Awesome
+Google Fonts 
