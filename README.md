@@ -1,2 +1,2 @@
 # Omar Ali Portfolio
-This is my first professional repository on git. It uses AWS and React.JS
+This is my first professional repository on github. It uses AWS and React.JS
